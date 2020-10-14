@@ -392,25 +392,28 @@ td {
     z-index: 1000;
     background-image: url(../Content/BlueChips.svg);
     background-repeat: no-repeat;
+    background-position: center center;
 }
 
 .redChips {
     z-index: 1000;
     background-image: url(../Content/RedChips.svg);
     background-repeat: no-repeat;
+    background-position: center center;
 }
 
 .yellowChips {
     z-index: 1000;
     background-image: url(../Content/YellowChips.svg);
     background-repeat: no-repeat;
+    background-position: center center;
 }
 
 .greenChips {
     z-index: 1000;
     background-image: url(../Content/GreenCips.svg);
     background-repeat: no-repeat;
-
+    background-position: center center;
 }
 
 /*%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%*/
